@@ -49,7 +49,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15.7.0",
-    "react": "^19.x.x",
+    "react": "18.x.x || 19.x.x",
     "react-dom": "^19.x.x"
   },
   "devDependencies": {
