@@ -50,7 +50,7 @@
   "peerDependencies": {
     "prop-types": "^15.7.0",
     "react": "^18.x.x || ^19.x.x",
-    "react-dom": "^19.x.x"
+    "react-dom": "^18.x.x || ^19.x.x"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.0",
